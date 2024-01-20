@@ -1,4 +1,4 @@
-# Discord.ts - Template Bot
+# DiscordTS - Starter Bot
 
 [LEIAME em Português](/Assets/LEIAME.md)
 
