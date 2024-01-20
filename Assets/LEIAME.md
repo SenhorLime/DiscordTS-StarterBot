@@ -1,4 +1,4 @@
-# Discord.ts - Modelo de Bot
+# DiscordTS - Starter Bot
 
 Este é um modelo simples para começar a desenvolver um bot Discord usando TypeScript e a biblioteca Discord.js. Ele inclui uma estrutura básica para criar comandos slash, ouvir eventos e outras configurações.
 
@@ -13,13 +13,13 @@ Este é um modelo simples para começar a desenvolver um bot Discord usando Type
 1. Clone este repositório em sua máquina
 
 ```bash
-  git clone https://github.com/SenhorLime/update-later
+  git clone https://github.com/SenhorLime/DiscordTS-StarterBot.git
 ```
 
 2. Abra o repositório
 
 ```bash
-  cd update-later
+  cd DiscordTS-StarterBot
 ```
 
 3. Instale as dependências do Node.js
